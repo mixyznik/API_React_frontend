@@ -26,3 +26,17 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+thead {
+        background-color: black;
+        color: white;
+    }
+.completed{
+margin: 0px auto
+}
+.tabela {
+
+}
+#posleft{
+  text-align: left;
+}
